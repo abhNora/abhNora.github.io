@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Alex Johnson
+title: Nora Amama-BenHassun
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Nora
+last_name: Amama-BenHassun
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns: ''
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: ''
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,65 +23,54 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Ph.D. Candidate in Statistics and Operation Research (UPC)
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Siemens Energy AI Chair – UPC
+    url: https://aichair.upc.edu/en
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:nora.amama@upc.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/AlexAIResearch
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/abhNora
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://www.linkedin.com/in/nora-amama-ben-hassun-4a8083200/
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0009-0004-7598-0100
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Synthetic Data Generation and Validation
+  - Statistics
+  - Machine Learning and Applied AI
+  - Research Communication
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: Ph.D. Candidate in Statistics and Operations Research
+    institution: Universitat Politècnica de Catalunya (UPC)
     icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+    date_start: 2024-05-01
+    date_end: Present
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
+      Thesis on _Statistical Assessment of Synthetic Data Validation Process_. Supervised by Prof. Daniel Fernández Martínez and Prof. Jordi Cortés Martínez.
+  - area: Master in Statistics and Operations Research (MESIO)
+    institution: Universitat Politècnica de Catalunya - Universitat de Barcelona (UPC - UB)
     icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
+    date_start: 2022-09-01
+    date_end: 2024-02-1
     summary: |
-      GPA: 4.0/4.0
-
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
+      Thesis on _Machine Learning-based Segmentation applied to Wind Turbines Images: Loss exploration_. Supervised by Prof. Antonio Agudo and Raül Pérez-Gonzalo.
+  - area: Bachelor’s degree in Statistics
+    institution: Universitat de Barcelona - Universitat Politècnica de Catalunya (UB-UPC)
     icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
+    date_start: 2018-09-01
+    date_end: 2022-07-25
     summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
+      Thesis on _Creació d’interfície interactiva amb shiny per la modelització de sèries temporals: estudi mediambiental de la qualitat de l’aire_. Supervised by Prof. Josep Anton Sánchez Espigares.
 
 work:
   - position: Senior AI Research Scientist
