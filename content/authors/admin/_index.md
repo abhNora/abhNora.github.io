@@ -73,62 +73,114 @@ education:
       Thesis on _Creació d’interfície interactiva amb shiny per la modelització de sèries temporals: estudi mediambiental de la qualitat de l’aire_. Supervised by Prof. Josep Anton Sánchez Espigares.
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Board member of School of Mathematics and Statistics (FME)
+    company_name: Universitat Politècnica de Catalunya (UPC)
+    company_url: 'https://fme.upc.edu/en'
     icon: ''
-    date_start: 2020-01-01
-    date_end: ''
-    summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
+    date_start: 2021-10-01
+    date_end: '2024-07-29'
+  - position: Data Analyst Intern 
+    company_name: Datancia
+    company_url: 'https://www.datancia.com/'
     icon: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
+    date_start: 2022-09-01
+    date_end: 2024-03-31
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      * Built interactive R Shiny interfaces aligned with CLSI procedures.
+      * Applied statistical methodologies to ensure regulatory accuracy and compliance.
+      * Automated LaTeX report generation based on dynamic user inputs.
+      * Collaborated on data visualization and UI design with multidisciplinary teams.
+      * Provided training to new team members to support onboarding and knowledge transfer.
+  - position: Analyst Intern 
+    company_name: YouGov
+    company_url: 'https://yougov.co.uk/'
+    icon: ''
+    date_start: 2021-09-01
+    date_end: 2022-06-31
+    summary: |
+      * Designed statistically robust surveys and applied sampling techniques to ensure representative data collection.
+      * Collaborated on quota adjustments to maintain demographic accuracy.
+      * Analyzed survey data for brands like Sony, Orange Bank, and Tendam, providing actionable insights and presenting results to stakeholders.
+  - position: Risk Department Intern
+    company_name: Cofidis España
+    company_url: 'https://www.cofidis.es/es/index.html'
+    icon: ''
+    date_start: 2021-05-25
+    date_end: 2021-07-31
+    summary: |
+      * Automated fraud detection and risk assessment processes using SAS and Excel.  
+      * Identified high-risk establishments and contracts using statistical techniques.  
+      * Monitored customer acceptance systems to ensure compliance with internal protocols.  
+      * Developed Power BI dashboards and reports for risk management.  
+      * Presented findings to senior management and supported fraud-prevention initiatives.
+  - position: Teaching Assistantships
+    company_name: Universitat Politècnica de Catalunya (UPC)
+    company_url: 'https://www.upc.edu/en?set_language=en'
+    icon: ''
+    date_start: 2020-09-01
+    date_end: 2021-07-31
+    summary: |
+      Supported courses “Introduction to Statistical Inference” and  “Introduction to Computer Science and Calculus” for first-year students.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python & PyTorch
-        description: ''
-        percent: 95
-        icon: code-bracket
-      - name: Machine Learning
+      - name: R (tidyverse, Shiny, R Markdown)
         description: ''
         percent: 100
-        icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
+        icon: code-bracket
+      - name: Python (pandas, Jupyter, SDV)
         description: ''
-        percent: 85
-        icon: cloud
-  - name: Hobbies
+        percent: 70
+        icon: code-bracket
+      - name: Statistical Modeling & Inference
+        description: ''
+        percent: 90
+        icon: chart-bar
+      - name: Machine Learning & AI
+        description: ''
+        percent: 90
+        icon: sparkles
+      - name: SQL & SAS
+        description: ''
+        percent: 75
+        icon: database
+      - name: Data Visualization (Shiny, Power BI, Excel)
+        description: ''
+        percent: 95
+        icon: presentation-chart
+      - name: LaTeX & Automated Reporting
+        description: ''
+        percent: 100
+        icon: file-text
+  - name: Soft Skills
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking in the Rockies
+      - name: Problem-Solving
         description: ''
-        percent: 80
-        icon: person-simple-walk
-      - name: Building Custom PCs
+        percent: 95
+        icon: lightbulb
+      - name: Team Collaboration
         description: ''
-        percent: 90
-        icon: cpu-chip
-      - name: Sci-Fi Reading
+        percent: 100
+        icon: users
+      - name: Effective Communication
         description: ''
-        percent: 70
-        icon: book-open
+        percent: 95
+        icon: chat-bubble-left-right
 
 languages:
-  - name: English
+  - name: Catalan
     percent: 100
   - name: Spanish
-    percent: 50
+    percent: 100
+  - name: Arabic
+    percent: 100
+  - name: English
+    percent: 85
 
 # Awards.
 #   Add/remove as many awards below as you like.

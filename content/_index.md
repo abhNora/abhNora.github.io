@@ -37,11 +37,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+         I am a PhD candidate in Statistics and Operations Research at UPC, working on methods for **synthetic data validation**. My research, carried out within the IDEAI-UPC center and funded through a European collaboration with **Siemens Energy**, focuses on ensuring that synthetic datasets achieve both high resemblance and practical utility.
+         
+         My work bridges statistical modelling, machine learning, and privacy-aware data generation.  
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-
-        Please reach out to collaborate 😃
+         👉 Feel free to reach out — I love connecting with researchers and practitioners!  
     design:
       columns: '1'
   - block: collection
