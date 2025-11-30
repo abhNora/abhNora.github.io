@@ -54,14 +54,14 @@ education:
     institution: Universitat Politècnica de Catalunya (UPC)
     icon: ""
     date_start: 2024-05-01
-    date_end: Present
+    date_end: 2027-09-01
     summary: |
       Thesis on _Statistical Assessment of Synthetic Data Validation Process_. Supervised by Prof. Daniel Fernández Martínez and Prof. Jordi Cortés Martínez.
   - area: Master in Statistics and Operations Research (MESIO)
     institution: Universitat Politècnica de Catalunya - Universitat de Barcelona (UPC - UB)
     icon: ""
     date_start: 2022-09-01
-    date_end: 2024-02-1
+    date_end: 2024-02-01
     summary: |
       Thesis on _Machine Learning-based Segmentation applied to Wind Turbines Images: Loss exploration_. Supervised by Prof. Antonio Agudo and Raül Pérez-Gonzalo.
   - area: Bachelor’s degree in Statistics
