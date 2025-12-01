@@ -1,6 +1,9 @@
 ---
 title: Courses & Seminars
 type: landing
+slug: courses-and-seminars
+url: /courses-and-seminars/
+summary: Central hub for course attendance, invited seminars, and other trainings.
 
 design:
   spacing: '5rem'
