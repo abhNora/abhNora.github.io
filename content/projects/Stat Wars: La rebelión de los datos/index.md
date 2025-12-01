@@ -1,5 +1,5 @@
 ---
-title: Stat Wars: La rebelión de los datos
+title: Stat Wars. La rebelión de los datos
 date: 2024-01-01
 links:
   - type: site

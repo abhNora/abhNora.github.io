@@ -1,5 +1,5 @@
 ---
-title: Statistics for Health Sciences: Advances in Survival Analysis, Clinical Trials, and Statistical Modelling (SAFARI)
+title: Statistics for Health Sciences. Advances in Survival Analysis, Clinical Trials, and Statistical Modelling (SAFARI)
 date: 2024-09-01
 links:
   - type: site
