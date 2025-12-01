@@ -146,15 +146,15 @@ skills:
       - name: SQL & SAS
         description: ''
         percent: 75
-        icon: database
+        icon: code-bracket
       - name: Data Visualization (Shiny, Power BI, Excel)
         description: ''
         percent: 95
-        icon: presentation-chart
+        icon: presentation-chart-bar
       - name: LaTeX & Automated Reporting
         description: ''
         percent: 100
-        icon: file-text
+        icon: document-text
   - name: Soft Skills
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -162,7 +162,7 @@ skills:
       - name: Problem-Solving
         description: ''
         percent: 95
-        icon: lightbulb
+        icon: light-bulb
       - name: Team Collaboration
         description: ''
         percent: 100
