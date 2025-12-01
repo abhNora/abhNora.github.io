@@ -103,17 +103,13 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
-  - block: contact
+  - block: markdown
     id: contact
     content:
       title: Contact
-      email: nora.amama@upc.edu
-      address:
-        street: 'Carrer de Jordi Girona, 1-3'
-        city: Barcelona
-        region: ''
-        postcode: '08034'
-        country: Spain
+      text: |-
+        📧 <a href="mailto:nora.amama@upc.edu">nora.amama@upc.edu</a><br>
+        📍 Carrer de Jordi Girona, 1-3, 08034 Barcelona, Spain
     design:
       columns: '1'
   - block: cta-card
