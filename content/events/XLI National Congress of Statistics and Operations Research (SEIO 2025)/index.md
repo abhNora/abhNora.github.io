@@ -25,8 +25,8 @@ abstract: >-
   Mean-Squared Error and the Kolmogorov-Smirnov statistics, among others, when applied to different generation methods.
   The goals are twofold: first, to enhance the evaluation of synthetic data quality, and second, to address current
   deficiencies and facilitate their use in privacy-invasive domains. 
-  
-  **Keywords:** Synthetic Data, Tabular Data, Data Privacy, Data Utility, Validation Metrics
+  \\
+  **Keywords:** *Synthetic Data, Tabular Data, Data Privacy, Data Utility, Validation Metrics*
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -48,6 +48,7 @@ featured: false
 image:
   caption: ''
   focal_point: Right
+  filename: seio2025.jpg
 
 links:
   - type: slides
