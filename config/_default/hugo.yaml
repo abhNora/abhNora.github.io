@@ -6,7 +6,7 @@
 # Website name (set in params.yaml under hugoblox.branding.name)
 title: Nora Amama-BenHassun
 # Website URL
-baseURL: 'https://example.com/'
+baseURL: 'https://abhnora.github.io/'
 
 ############################
 ## LANGUAGE
