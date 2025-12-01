@@ -43,7 +43,7 @@ sections:
         folders:
           - courses-and-seminars/additional-courses
     design:
-      view: article-grid
+      view: card
       columns: 2
       show_date: false
       show_read_time: false
