@@ -22,9 +22,9 @@ main:
   - name: Projects
     url: projects/
     weight: 30
-  #- name: Courses & seminars
-  #  url: courses-and-seminars/
-  #  weight: 40
+  - name: Courses & seminars
+    url: courses-and-seminars/
+    weight: 40
   #- name: Courses
   #  url: courses/
   #  weight: 40
