@@ -46,9 +46,8 @@ tags: []
 featured: false
 
 image:
-  caption: ''
+  caption: 'seio 2025'
   focal_point: Right
-  filename: seio2025.jpg
 
 links:
   - type: slides
