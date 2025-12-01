@@ -1,5 +1,5 @@
 ---
-title: FROM REAL TO SYNTHETIC DATA ENSURING QUALITY
+title: From real to Synthetic Data ensuring quality
 
 event: 6th Scientific Meeting of the Biostatnet National Network 2025
 event_url: https://eventos.adeit.es/123283/detail/national-biostatnet.html
@@ -14,7 +14,7 @@ address:
 
 summary: >-
   Poster presented during the Poster Session and Cocktail, accompanied by a 3-minute talk introducing the main ideas and contributions of the work on evaluating metrics for synthetic tabular data quality.
-  
+
 abstract: >-
   The growing reluctance to share original datasets and the increasing demand to comply with privacy regulations have motivated the adoption of synthetic data. Synthetic data replicates the statistical properties of the original datasets while ensuring that individual-level information or sensitive variables are not disclosed (Nowok et al., 2016; Raab et al., 2017). However, to effectively evaluate the quality of synthetic data, the development and refinement of validation metrics is required (Snoke et al., 2018; Raab et al., 2021). This assessment ensures the usability and reliability of synthetic datasets.   
   
