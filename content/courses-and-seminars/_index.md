@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Attendance to research courses & seminars
-      text: Documentation of the training, workshops, and courses attended.
+      text: ''
       filters:
         folders:
           - courses-and-seminars/attendance
@@ -25,7 +25,7 @@ sections:
   - block: collection
     content:
       title: Invited seminars & research meetings
-      text: Sessions where I have contributed as a speaker or participant.
+      text: ''
       filters:
         folders:
           - courses-and-seminars/invited-seminars
@@ -38,7 +38,7 @@ sections:
   - block: collection
     content:
       title: Additional courses
-      text: A concise list of other relevant courses and certifications.
+      text: ''
       filters:
         folders:
           - courses-and-seminars/additional-courses
