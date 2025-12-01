@@ -79,7 +79,7 @@ work:
     icon: ''
     date_start: 2021-10-01
     date_end: '2024-07-29'
-  - position: Data Analyst Intern 
+  - position: Data Analyst Intern
     company_name: Datancia
     company_url: 'https://www.datancia.com/'
     icon: ''
@@ -91,12 +91,12 @@ work:
       * Automated LaTeX report generation based on dynamic user inputs.
       * Collaborated on data visualization and UI design with multidisciplinary teams.
       * Provided training to new team members to support onboarding and knowledge transfer.
-  - position: Analyst Intern 
+  - position: Analyst Intern
     company_name: YouGov
     company_url: 'https://yougov.co.uk/'
     icon: ''
     date_start: 2021-09-01
-    date_end: 2022-06-31
+    date_end: 2022-06-30
     summary: |
       * Designed statistically robust surveys and applied sampling techniques to ensure representative data collection.
       * Collaborated on quota adjustments to maintain demographic accuracy.
