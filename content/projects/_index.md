@@ -11,15 +11,29 @@ design:
 sections:
   - block: collection
     content:
-      title: Projects
-      text: Research projects & working groups
+      title: Research projects & working groups
+      text: ''
       filters:
         folders:
           - projects
     design:
       view: article-grid
       fill_image: false
-      columns: 1
+      columns: 2
+      show_date: false
+      show_read_time: false
+      show_read_more: false
+  - block: collection
+    content:
+      title: Personal projects
+      text: ''
+      filters:
+        folders:
+          - personal-projects
+    design:
+      view: article-grid
+      fill_image: false
+      columns: 2
       show_date: false
       show_read_time: false
       show_read_more: false
