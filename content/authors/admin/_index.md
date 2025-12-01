@@ -187,27 +187,37 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
-    icon: hero/trophy
-    summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
-    icon: hero/currency-dollar
-    summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
+  - title: HiTEc Winter Course Grant
+    url: https://www.bbk.ac.uk/
+    date: '2025-12-10'
+    awarder: Birkbeck, University of London / COST Programme
     icon: hero/academic-cap
     summary: |
-      Recognized for contributions to scaling laws in deep learning.
+      Funded to attend the HiTEc Winter Course at Birkbeck, University of London.
+      Grant includes daily allowance  of 190 euros per day plus travel expenses of up to 350 euros.
+  - title: Young Researchers Mobility Grant
+    url: https://biostatnet.com/en/
+    date: '2025-03-25'
+    awarder: BIOSTATNET
+    icon: hero/academic-cap
+    summary: |
+      Awarded under the BIOSTATNET mobility program to support a short research stay
+      with Prof. Josu Najera Zuloaga at the University of the Basque Country (UPV/EHU),
+      held from 25 March to 1 April 2025.
+  - title: Predoctoral Fellowship — Siemens Energy AI Chair
+    url: https://aichair.upc.edu/en
+    date: '2024-05-01'
+    awarder: Spanish Secretary of State for Digitalisation and AI (ENIA Chairs 2022) programme (TSI-100930-2023-5).
+    icon: hero/trophy
+    summary: |
+      Predoctoral fellowship funded under the ENIA Chairs 2022 programme (TSI-100930-2023-5), additionally supported by the European Union – Next Generation EU.
+  - title: Winner of the Best Idea at the ideaVilafranca Competition
+    url: https://lafurapenedes.cat/el-concurs-idea-vilafranca-beca-un-projecte-doptimitzacio-de-deteccio-de-malalties/
+    date: '2022-10-01'
+    awarder: ideaVilafranca Competition
+    icon: hero/light-bulb
+    summary: |
+      Awarded the Best Idea prize (€1500) for a project aimed at optimizing the disease detection process to enhance the performance of the health system. [Video](https://www.youtube.com/watch?v=AHA4UV6cV_c)
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+I am a statistician and PhD candidate in Statistics and Operations Research at the [Universitat Politècnica de Catalunya (UPC)](https://www.upc.edu/en?set_language=en), specializing in the validation of synthetic tabular data. With a strong academic foundation from the joint UB–UPC program and research conducted within the [IDEAI-UPC center](https://ideai.upc.edu/en) in collaboration with [Siemens Energy](https://www.siemens-energy.com/global/en/home.html), my work focuses on developing statistical methodologies that ensure data resemblance, utility, and privacy. I have experience in R and Python development, R Shiny applications, survey analytics, risk modelling, and applied statistical methods across health, biomedical, and industry contexts. I am passionate about creating rigorous, reproducible solutions and applying quantitative methods to real-world challenges.
