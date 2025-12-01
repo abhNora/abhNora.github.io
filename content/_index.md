@@ -37,34 +37,34 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-         I am a PhD candidate in Statistics and Operations Research at UPC, working on methods for **synthetic data validation**. My research, carried out within the IDEAI-UPC center and funded through a European collaboration with **Siemens Energy**, focuses on ensuring that synthetic datasets achieve both high resemblance and practical utility.
+         My research focuses on the validation of synthetic tabular data from a statistical perspective. I work on evaluating and comparing existing validation metrics, establishing guidelines for their correct use, and developing new measures that better capture the relationship between utility and privacy.
          
-         My work bridges statistical modelling, machine learning, and privacy-aware data generation.  
+         A key part of my work involves exploring the full landscape of quality assessments in the synthetic data validation pipeline, including resemblance, utility, privacy, and their inherent trade-offs. My goal is to contribute to a rigorous, well-defined framework that helps researchers and practitioners evaluate synthetic data safely, effectively, and transparently.
 
          👉 Feel free to reach out — I love connecting with researchers and practitioners!  
     design:
       columns: '1'
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publications
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ''
-      filters:
-        folders:
-          - publications
-        exclude_featured: false
-    design:
-      view: citation
+  #- block: collection
+  #  id: papers
+  #  content:
+  #    title: Featured Publications
+  #    filters:
+  #      folders:
+  #        - publications
+  #      featured_only: true
+  #  design:
+  #    view: article-grid
+  #    columns: 2
+  #- block: collection
+  #  content:
+  #    title: Recent Publications
+  #    text: ''
+  #    filters:
+  #      folders:
+  #        - publications
+  #      exclude_featured: false
+  #  design:
+  #    view: citation
   - block: collection
     id: talks
     content:
