@@ -24,8 +24,9 @@ abstract: >-
   a comprehensive simulation study aim to assess the reliability of resemblance metrics, including the Propensity Score
   Mean-Squared Error and the Kolmogorov-Smirnov statistics, among others, when applied to different generation methods.
   The goals are twofold: first, to enhance the evaluation of synthetic data quality, and second, to address current
-  deficiencies and facilitate their use in privacy-invasive domains. **Keywords:** Synthetic Data, Tabular Data, Data
-  Privacy, Data Utility, Validation Metrics
+  deficiencies and facilitate their use in privacy-invasive domains. 
+  
+  **Keywords:** Synthetic Data, Tabular Data, Data Privacy, Data Utility, Validation Metrics
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
