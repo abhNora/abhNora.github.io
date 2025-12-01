@@ -103,6 +103,19 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
+  - block: contact
+    id: contact
+    content:
+      title: Contact
+      email: nora.amama@upc.edu
+      address:
+        street: 'Carrer de Jordi Girona, 1-3'
+        city: Barcelona
+        region: ''
+        postcode: '08034'
+        country: Spain
+    design:
+      columns: '1'
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
