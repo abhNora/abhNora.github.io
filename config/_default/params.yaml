@@ -90,7 +90,7 @@ header:
     fixed_to_top: true
     show_search: false
     show_mode_toggle: true
-    show_theme_picker: false
+    show_theme_picker: true
 
 # ==============================================================================
 # SITE FOOTER
