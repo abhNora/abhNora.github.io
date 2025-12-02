@@ -1,6 +1,6 @@
 ---
 title: Grup de Recerca en Bioestadística i Bioinformàtica (GRBIO)
-date: 2024-05-01
+date: 2024-05-30
 links:
   - type: site
     url: https://grbio.upc.edu/en

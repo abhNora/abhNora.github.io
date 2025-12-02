@@ -4,7 +4,7 @@ title: Evaluation of Metrics for Assessing Synthetic Tabular Data Quality
 event: XLI National Congress of Statistics and Operations Research (SEIO 2025)
 event_url: https://seio2025.com/en/
 
-location: "La Llotja palace in Lleida"
+location: "La Llotja palace"
 address:
   street: Avinguda de Tortosa, 6
   city: Lleida
@@ -13,7 +13,7 @@ address:
   country: Spain
 
 summary: >-
-  Talk presented in the *Data Analysis II* session, focusing on the evaluation of metrics for assessing synthetic tabular data quality.
+  Talk presented in the Data Analysis II session, focusing on the evaluation of metrics for assessing synthetic tabular data quality.
 abstract: >-
   The need to comply with privacy rules and reluctance to share original datasets have fueled synthetic data (SD) adoption. While current methods mimic original data, their quality assessment relies on validation metrics, whose reliability is uncertain, making it a key research focus. This research introduces key validation metrics, focusing on tabular SD. After an extensive state of art, we describe a broad set of measures, some of them adapted from other
   contexts, and propose a framework to guide the selection of appropriate metrics based on specific use cases. We set a comprehensive simulation study aim to assess the reliability of resemblance metrics, including the Propensity Score Mean-Squared Error and the Kolmogorov-Smirnov statistics, among others, when applied to different generation methods. The goals are twofold: first, to enhance the evaluation of synthetic data quality, and second, to address current deficiencies and facilitate their use in privacy-invasive domains.  
