@@ -15,6 +15,9 @@
 {{ if eq $item.Type "event" }}
   {{ $showReadTime = false }}
 {{ end }}
+{{ if eq $item.Type "project" }}
+  {{ $showReadTime = false }}
+{{ end }}
 {{ if eq $item.Params.reading_time false }}
   {{ $showReadTime = false }}
 {{ end }}
