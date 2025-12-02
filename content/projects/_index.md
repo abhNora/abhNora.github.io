@@ -7,6 +7,10 @@ design:
   # Section spacing
   spacing: '5rem'
 
+# Hide reading time on all event pages.
+cascade:
+  reading_time: false
+
 # Page sections
 sections:
   - block: collection
