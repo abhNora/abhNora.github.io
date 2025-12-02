@@ -1,6 +1,6 @@
 ---
 title: Personal projects
 view: article-grid
-cascade:
-  reading_time: false
+# cascade:
+#   reading_time: false
 ---

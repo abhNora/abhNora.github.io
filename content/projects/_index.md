@@ -8,8 +8,8 @@ design:
   spacing: '5rem'
 
 # Apply to all project pages
-cascade:
-  reading_time: false
+# cascade:
+#   reading_time: false
 
 # Page sections
 sections:
@@ -20,8 +20,8 @@ sections:
       filters:
         folders:
           - projects
-      cascade:
-        reading_time: false
+      #cascade:
+        #reading_time: false
     design:
       view: article-grid
       fill_image: false
@@ -36,8 +36,8 @@ sections:
       filters:
         folders:
           - personal-projects
-      cascade:
-        reading_time: false
+      #cascade:
+        #reading_time: false
     design:
       view: article-grid
       fill_image: false
