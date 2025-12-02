@@ -3,6 +3,10 @@ title: 'Projects'
 date: 2024-05-19
 type: landing
 
+# Hide reading time on all event pages.
+cascade:
+  reading_time: false
+
 design:
   # Section spacing
   spacing: '5rem'
