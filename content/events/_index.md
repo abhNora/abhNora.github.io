@@ -12,6 +12,6 @@ image:
   filename: ''
 
 # Hide reading time on all event pages.
-# cascade:
-#   reading_time: false
+cascade:
+  reading_time: false
 ---
