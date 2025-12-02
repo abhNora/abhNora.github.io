@@ -52,6 +52,8 @@ links:
 #   Otherwise, set `slides = ""`.
 slides: ""
 
+show_read_time = false
+
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
