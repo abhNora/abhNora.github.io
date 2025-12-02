@@ -1,11 +1,23 @@
 <div class="max-w-prose print:hidden">
-  {{/* Moved to TOC sidebar */}}
-  {{/* partial "page_edit" . */}}
+  {{/* Render tags if partial exists */}}
+  {{ if templates.Exists "partials/tags.html" }}
+    {{ partial "tags" . }}
+  {{ end }}
 
-  {{ partial "tags" . }}
   {{/* Sharing disabled site-wide */}}
-  {{ partial "page_author" . }}
-  {{ partial "components/next-in-series" . }}
-  {{ partial "page_related" . }}
-  {{ partial "comments" . }}
+
+  {{/* Render author details if partial exists */}}
+  {{ if templates.Exists "partials/page_author.html" }}
+    {{ partial "page_author" . }}
+  {{ end }}
+
+  {{/* Render related content if partial exists */}}
+  {{ if templates.Exists "partials/page_related.html" }}
+    {{ partial "page_related" . }}
+  {{ end }}
+
+  {{/* Render comments if partial exists */}}
+  {{ if templates.Exists "partials/comments.html" }}
+    {{ partial "comments" . }}
+  {{ end }}
 </div>
