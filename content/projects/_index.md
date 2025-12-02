@@ -36,8 +36,8 @@ sections:
       filters:
         folders:
           - personal-projects
-      #cascade:
-        #reading_time: false
+      cascade:
+        reading_time: false
     design:
       view: article-grid
       fill_image: false
