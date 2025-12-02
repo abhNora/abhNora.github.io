@@ -11,15 +11,9 @@
 {{ $anchor := $item.Params.image.focal_point | default "Center" }}
 {{ $fill_image := .config.fill_image | default true }}
 {{ $showDate := .config.show_date | default true }}
-{{ $showReadTime := .config.show_read_time | default true }}
-{{ if eq $item.Type "event" }}
-  {{ $showReadTime = false }}
-{{ end }}
-{{ if eq $item.Type "project" }}
-  {{ $showReadTime = false }}
-{{ end }}
-{{ if eq $item.Params.reading_time false }}
-  {{ $showReadTime = false }}
+{{ $showReadTime := false }}
+{{ if eq $item.Params.reading_time true }}
+  {{ $showReadTime = true }}
 {{ end }}
 {{ $showReadMore := .config.show_read_more | default true }}
 {{ $hasMeta := or $showDate $showReadTime $showReadMore }}
