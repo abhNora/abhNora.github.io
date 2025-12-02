@@ -27,7 +27,9 @@ hugoblox:
     # Mode: 'light', 'dark', or 'system' (follows OS preference)
     mode: system
     # Theme pack: name from data/themes/ or { light: "x", dark: "y" } for mix-and-match
-    pack: "marine"
+    pack: 
+      light: "marine"
+      dark: "contrast"
     # Optional: Override theme pack colors
     # colors:
     #   primary: "indigo"    # Tailwind palette name or hex (e.g., "#6366f1")
@@ -90,7 +92,7 @@ header:
     fixed_to_top: true
     show_search: false
     show_mode_toggle: true
-    show_theme_picker: true
+    show_theme_picker: false
 
 # ==============================================================================
 # SITE FOOTER
