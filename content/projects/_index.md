@@ -7,10 +7,6 @@ design:
   # Section spacing
   spacing: '5rem'
 
-# Apply to all project pages
-cascade:
-  reading_time: false
-
 # Page sections
 sections:
   - block: collection
